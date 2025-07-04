@@ -1,0 +1,1001 @@
+age,gender,location,source,time_spent,pages_visited,device,previous_purchases,campaign_engaged,converted
+56,Male,Rural,Ad,22.54,6,Desktop,1,0,1
+69,Male,Urban,Organic,22.4,12,Desktop,3,0,1
+46,Male,Urban,Ad,16.12,1,Desktop,5,1,1
+32,Female,Suburban,Organic,2.99,13,Mobile,4,0,0
+60,Male,Rural,Organic,11.76,7,Desktop,3,0,1
+25,Male,Urban,Referral,27.7,14,Desktop,3,0,1
+38,Male,Suburban,Organic,17.95,13,Mobile,0,1,1
+56,Female,Suburban,Ad,16.61,7,Mobile,0,0,1
+36,Female,Urban,Referral,8.8,14,Desktop,0,0,1
+40,Male,Rural,Organic,11.69,15,Mobile,2,0,1
+28,Male,Suburban,Referral,26.97,12,Tablet,0,0,1
+28,Male,Suburban,Ad,20.33,1,Desktop,4,0,0
+41,Male,Rural,Referral,23.83,9,Desktop,3,0,1
+53,Female,Rural,Organic,14.18,6,Mobile,4,0,1
+57,Female,Suburban,Ad,19.28,15,Mobile,5,1,1
+41,Female,Rural,Ad,8.2,12,Tablet,0,0,1
+20,Female,Suburban,Organic,21.46,2,Mobile,2,0,1
+39,Male,Suburban,Organic,13.4,5,Desktop,5,0,1
+19,Male,Suburban,Ad,13.83,13,Mobile,2,1,1
+41,Male,Suburban,Ad,19.83,11,Mobile,5,0,1
+61,Female,Urban,Ad,28.15,4,Mobile,3,1,1
+47,Male,Rural,Ad,2.86,7,Mobile,4,0,1
+55,Female,Rural,Referral,24.92,8,Tablet,1,0,1
+19,Female,Urban,Organic,9.48,11,Mobile,4,0,1
+38,Male,Rural,Organic,13.87,14,Mobile,0,0,1
+50,Male,Urban,Organic,1.64,15,Mobile,1,1,1
+29,Male,Urban,Ad,9.73,11,Mobile,2,1,1
+39,Female,Suburban,Organic,15.58,1,Mobile,3,0,0
+61,Male,Urban,Referral,2.63,5,Desktop,3,0,0
+42,Female,Rural,Social Media,15.24,15,Mobile,2,1,1
+66,Male,Rural,Organic,27.89,3,Mobile,0,0,0
+44,Female,Suburban,Ad,4.06,1,Mobile,2,0,1
+59,Female,Urban,Organic,23.17,12,Tablet,5,0,1
+45,Male,Urban,Ad,12.88,3,Mobile,0,0,0
+33,Female,Suburban,Organic,20.0,14,Mobile,1,0,1
+32,Female,Rural,Ad,8.55,6,Desktop,2,0,1
+64,Male,Suburban,Ad,5.63,14,Mobile,0,0,1
+68,Female,Urban,Organic,5.65,7,Mobile,1,0,0
+61,Male,Suburban,Ad,3.04,8,Mobile,2,0,0
+69,Female,Suburban,Organic,6.38,13,Desktop,3,0,1
+20,Male,Suburban,Ad,20.26,11,Mobile,2,1,1
+54,Male,Urban,Organic,26.57,4,Desktop,4,0,1
+68,Female,Suburban,Organic,24.61,3,Desktop,2,0,1
+24,Female,Suburban,Referral,20.87,5,Mobile,4,1,1
+38,Female,Rural,Ad,4.2,9,Mobile,1,1,1
+26,Female,Urban,Ad,9.39,13,Mobile,2,0,1
+56,Female,Suburban,Ad,9.98,6,Desktop,1,0,0
+35,Male,Rural,Ad,8.25,15,Mobile,1,1,1
+21,Female,Urban,Organic,15.94,9,Mobile,0,1,1
+42,Male,Rural,Social Media,16.53,15,Mobile,1,1,1
+31,Male,Suburban,Organic,11.35,6,Tablet,1,1,1
+67,Female,Urban,Organic,11.26,2,Mobile,2,0,0
+26,Male,Urban,Organic,25.03,13,Tablet,2,0,1
+43,Male,Suburban,Organic,23.89,5,Mobile,3,0,0
+19,Male,Urban,Ad,9.93,12,Mobile,0,0,0
+37,Male,Suburban,Social Media,27.5,11,Mobile,1,0,1
+45,Female,Urban,Organic,28.63,9,Mobile,0,0,1
+64,Male,Suburban,Referral,10.48,8,Mobile,4,0,1
+24,Female,Urban,Ad,11.28,7,Mobile,1,1,0
+61,Female,Rural,Referral,15.66,1,Tablet,0,0,0
+25,Male,Rural,Referral,28.29,4,Desktop,3,0,1
+64,Female,Rural,Organic,26.41,12,Desktop,3,0,1
+52,Female,Suburban,Referral,3.97,7,Mobile,1,0,0
+31,Female,Urban,Ad,12.39,11,Mobile,4,1,1
+34,Male,Suburban,Social Media,17.05,7,Mobile,3,0,1
+53,Female,Urban,Ad,15.59,15,Desktop,3,1,1
+67,Female,Urban,Referral,6.62,6,Tablet,4,0,1
+57,Female,Urban,Ad,25.91,8,Mobile,0,0,1
+21,Male,Urban,Organic,20.63,11,Mobile,3,0,1
+19,Female,Suburban,Social Media,25.3,13,Mobile,2,0,1
+23,Male,Suburban,Ad,25.9,6,Mobile,5,1,1
+59,Male,Urban,Organic,22.7,10,Mobile,5,0,1
+21,Male,Urban,Ad,13.74,3,Desktop,3,1,1
+46,Male,Rural,Social Media,18.71,4,Desktop,0,0,1
+35,Male,Urban,Organic,5.65,14,Mobile,0,1,1
+43,Male,Urban,Organic,20.54,3,Mobile,1,0,1
+61,Female,Urban,Ad,6.2,1,Tablet,2,1,1
+51,Male,Suburban,Social Media,21.12,15,Mobile,0,0,1
+27,Female,Suburban,Organic,7.66,10,Mobile,4,0,0
+53,Female,Urban,Ad,4.41,5,Mobile,2,0,0
+31,Male,Urban,Organic,5.79,15,Mobile,5,1,1
+48,Female,Suburban,Ad,1.06,1,Mobile,2,0,0
+65,Female,Suburban,Organic,21.84,1,Desktop,4,0,1
+32,Female,Urban,Ad,22.24,2,Mobile,3,1,1
+25,Female,Rural,Organic,15.93,13,Mobile,4,0,1
+31,Male,Urban,Referral,5.68,4,Desktop,4,0,1
+40,Female,Urban,Ad,3.42,6,Mobile,3,0,1
+57,Male,Rural,Ad,1.55,8,Desktop,3,0,1
+38,Female,Urban,Ad,5.81,13,Desktop,3,1,1
+33,Female,Suburban,Referral,26.83,3,Mobile,3,1,1
+62,Male,Urban,Ad,8.0,1,Desktop,3,0,1
+35,Female,Urban,Referral,11.27,3,Mobile,4,1,1
+64,Female,Rural,Ad,4.06,12,Tablet,1,0,0
+41,Female,Urban,Ad,7.45,3,Mobile,1,0,0
+43,Male,Rural,Organic,16.06,5,Tablet,0,0,0
+42,Female,Urban,Ad,18.62,11,Desktop,1,0,1
+62,Male,Urban,Social Media,8.12,12,Mobile,5,0,1
+58,Female,Urban,Organic,2.67,12,Mobile,1,1,1
+46,Male,Suburban,Organic,12.34,4,Tablet,4,1,1
+32,Male,Urban,Referral,7.79,13,Desktop,3,0,1
+62,Female,Rural,Organic,7.37,4,Mobile,3,0,0
+18,Female,Urban,Ad,28.84,9,Desktop,4,1,1
+42,Male,Rural,Ad,18.87,7,Mobile,5,1,1
+24,Male,Urban,Ad,17.15,4,Mobile,1,1,1
+26,Female,Rural,Organic,13.06,3,Mobile,4,0,1
+41,Male,Suburban,Ad,13.44,6,Mobile,0,1,1
+18,Female,Suburban,Referral,16.69,3,Desktop,3,0,0
+61,Female,Rural,Social Media,21.2,6,Mobile,2,0,1
+25,Female,Suburban,Organic,21.36,11,Desktop,0,0,1
+41,Female,Suburban,Referral,5.98,13,Mobile,5,0,1
+28,Male,Urban,Ad,15.5,11,Mobile,0,0,1
+68,Female,Urban,Organic,12.95,13,Mobile,4,0,1
+34,Male,Rural,Referral,26.25,13,Mobile,1,0,1
+25,Female,Suburban,Ad,19.31,12,Mobile,3,1,1
+52,Male,Suburban,Ad,16.44,9,Mobile,5,0,1
+52,Female,Urban,Social Media,4.35,6,Mobile,5,0,1
+50,Male,Urban,Organic,18.56,12,Mobile,2,0,1
+22,Male,Urban,Organic,4.4,4,Mobile,0,1,0
+59,Female,Suburban,Organic,10.78,15,Mobile,2,0,1
+56,Female,Urban,Referral,5.14,5,Desktop,1,0,1
+58,Female,Urban,Referral,21.07,13,Tablet,1,0,1
+45,Female,Urban,Referral,6.98,6,Mobile,2,1,1
+24,Male,Urban,Ad,12.36,11,Mobile,3,1,1
+26,Female,Suburban,Referral,26.97,3,Mobile,1,0,1
+25,Male,Urban,Organic,6.93,8,Tablet,2,0,0
+29,Male,Suburban,Organic,15.73,4,Mobile,0,1,0
+51,Female,Urban,Organic,13.16,8,Mobile,2,0,0
+50,Male,Urban,Referral,1.53,10,Mobile,2,0,0
+65,Male,Urban,Organic,23.99,10,Mobile,4,0,1
+40,Male,Urban,Organic,3.0,3,Mobile,1,0,0
+41,Male,Urban,Referral,14.75,10,Desktop,3,0,1
+54,Female,Urban,Organic,17.26,7,Mobile,3,0,1
+52,Female,Suburban,Ad,19.22,11,Desktop,4,0,1
+61,Female,Urban,Referral,20.97,13,Mobile,5,1,1
+57,Female,Suburban,Ad,8.34,12,Mobile,3,0,1
+39,Male,Rural,Ad,1.29,9,Tablet,2,1,1
+44,Male,Suburban,Referral,21.98,4,Mobile,4,0,1
+52,Female,Urban,Organic,16.53,8,Desktop,0,0,0
+18,Female,Urban,Social Media,25.25,3,Mobile,1,0,1
+52,Female,Urban,Organic,24.82,7,Mobile,1,1,1
+54,Male,Urban,Organic,25.46,3,Tablet,1,1,1
+64,Female,Rural,Referral,15.07,12,Mobile,2,0,1
+31,Female,Urban,Organic,10.68,15,Desktop,0,1,1
+20,Female,Urban,Ad,23.96,15,Mobile,4,0,1
+18,Male,Suburban,Ad,14.09,7,Desktop,4,1,1
+22,Male,Suburban,Ad,6.32,14,Mobile,1,1,1
+43,Male,Suburban,Referral,25.79,11,Mobile,0,1,1
+31,Male,Urban,Ad,26.59,10,Desktop,0,0,1
+56,Male,Urban,Ad,14.52,10,Tablet,0,0,1
+44,Male,Suburban,Ad,3.2,11,Tablet,3,0,0
+26,Male,Urban,Social Media,12.25,11,Desktop,3,0,1
+32,Male,Urban,Ad,24.3,6,Desktop,1,0,1
+32,Female,Urban,Referral,27.15,2,Mobile,0,0,1
+43,Female,Urban,Ad,6.9,11,Mobile,5,0,1
+59,Male,Urban,Organic,2.94,3,Mobile,0,0,0
+30,Male,Urban,Ad,26.44,6,Mobile,4,0,1
+68,Female,Suburban,Ad,12.29,14,Mobile,4,0,1
+49,Male,Suburban,Referral,16.71,4,Mobile,1,1,1
+56,Male,Rural,Ad,29.07,6,Mobile,5,0,1
+66,Male,Urban,Ad,2.93,1,Desktop,0,0,0
+69,Female,Urban,Ad,19.8,10,Mobile,5,1,1
+49,Female,Urban,Ad,3.15,12,Mobile,1,0,1
+21,Female,Suburban,Ad,11.89,1,Mobile,4,0,1
+47,Female,Suburban,Ad,24.31,3,Desktop,4,0,1
+54,Female,Urban,Organic,13.57,8,Desktop,3,0,1
+40,Male,Rural,Referral,29.92,8,Desktop,1,1,1
+56,Female,Urban,Referral,17.21,11,Mobile,1,0,1
+62,Male,Suburban,Ad,10.31,4,Mobile,0,0,0
+32,Male,Suburban,Social Media,7.38,6,Mobile,0,0,1
+60,Female,Rural,Ad,11.17,15,Mobile,3,0,1
+46,Female,Suburban,Ad,11.8,8,Mobile,2,1,1
+53,Male,Rural,Organic,2.99,7,Mobile,5,0,1
+30,Male,Urban,Ad,11.72,11,Mobile,2,0,0
+49,Male,Rural,Ad,14.46,7,Tablet,2,0,1
+24,Female,Urban,Referral,21.96,13,Tablet,1,0,1
+68,Female,Rural,Organic,20.05,4,Mobile,5,0,1
+39,Female,Suburban,Referral,21.55,9,Mobile,1,1,1
+45,Female,Rural,Organic,1.24,12,Mobile,5,1,1
+19,Female,Urban,Social Media,7.31,10,Mobile,4,1,1
+59,Male,Suburban,Ad,20.19,6,Tablet,1,1,1
+62,Female,Suburban,Ad,15.04,14,Mobile,1,0,0
+23,Male,Suburban,Ad,1.15,12,Desktop,1,0,1
+45,Male,Urban,Referral,24.33,11,Mobile,3,1,1
+45,Male,Urban,Referral,23.41,3,Tablet,1,1,1
+61,Female,Urban,Social Media,16.9,5,Mobile,0,1,1
+61,Female,Urban,Organic,2.93,5,Desktop,0,0,0
+37,Female,Rural,Organic,23.23,14,Mobile,5,0,1
+47,Male,Urban,Ad,17.93,5,Desktop,4,1,1
+28,Male,Rural,Organic,23.68,8,Mobile,3,1,1
+45,Male,Urban,Social Media,22.8,9,Mobile,5,1,1
+42,Male,Urban,Organic,24.29,13,Tablet,0,0,1
+56,Male,Suburban,Ad,16.02,9,Tablet,3,0,1
+50,Male,Suburban,Organic,5.07,13,Desktop,3,0,1
+18,Female,Urban,Ad,20.46,6,Desktop,4,1,1
+44,Female,Suburban,Ad,18.99,6,Desktop,3,0,1
+69,Female,Suburban,Ad,22.53,9,Mobile,1,0,1
+30,Female,Urban,Organic,5.93,4,Mobile,3,1,1
+58,Male,Rural,Organic,6.65,6,Mobile,4,0,1
+20,Male,Rural,Ad,26.82,4,Desktop,5,1,1
+56,Female,Suburban,Ad,22.75,11,Mobile,4,0,1
+23,Male,Urban,Referral,27.34,1,Mobile,4,1,1
+25,Female,Suburban,Ad,23.0,7,Mobile,0,0,1
+44,Female,Urban,Ad,18.32,14,Desktop,1,1,1
+26,Female,Urban,Referral,19.97,10,Mobile,0,1,1
+54,Male,Urban,Organic,26.78,11,Mobile,5,0,1
+50,Female,Urban,Ad,17.79,12,Mobile,2,0,1
+68,Female,Rural,Ad,19.34,6,Mobile,5,0,1
+59,Female,Suburban,Ad,5.54,9,Mobile,1,0,1
+61,Male,Suburban,Social Media,14.74,7,Desktop,3,1,1
+41,Male,Urban,Organic,21.78,13,Desktop,4,0,1
+32,Female,Urban,Organic,8.86,7,Desktop,2,0,1
+49,Male,Urban,Ad,6.87,2,Mobile,1,0,0
+49,Male,Rural,Referral,10.1,12,Desktop,0,1,1
+41,Male,Urban,Ad,8.0,11,Mobile,4,1,1
+58,Male,Rural,Organic,7.23,15,Mobile,5,0,1
+69,Male,Suburban,Social Media,13.32,9,Desktop,0,0,1
+66,Male,Urban,Organic,27.33,10,Mobile,1,0,1
+66,Male,Suburban,Organic,15.7,9,Mobile,1,0,0
+69,Male,Urban,Organic,6.45,6,Desktop,5,0,1
+29,Male,Rural,Ad,3.23,13,Mobile,2,0,0
+56,Male,Rural,Social Media,21.19,3,Desktop,5,0,1
+19,Female,Urban,Ad,12.1,1,Mobile,3,0,0
+20,Female,Urban,Referral,24.83,4,Desktop,0,0,1
+66,Male,Suburban,Ad,20.13,14,Mobile,2,0,1
+54,Female,Rural,Ad,24.09,14,Mobile,4,0,1
+66,Female,Urban,Referral,8.89,3,Desktop,3,1,1
+34,Male,Suburban,Ad,21.08,14,Mobile,2,1,1
+66,Male,Suburban,Referral,8.66,12,Mobile,0,0,1
+19,Male,Suburban,Referral,28.23,1,Mobile,1,0,1
+19,Female,Urban,Ad,19.45,3,Mobile,4,1,1
+45,Female,Suburban,Ad,10.41,14,Mobile,5,1,1
+40,Male,Rural,Referral,8.82,14,Mobile,0,0,0
+54,Male,Urban,Ad,6.54,4,Tablet,3,0,0
+49,Male,Urban,Organic,21.14,13,Mobile,3,0,1
+50,Female,Rural,Organic,7.34,13,Mobile,1,0,0
+18,Female,Urban,Organic,18.26,15,Mobile,1,0,1
+36,Female,Rural,Organic,8.67,14,Mobile,4,0,1
+19,Female,Urban,Referral,20.2,8,Tablet,5,0,1
+61,Male,Urban,Organic,24.63,9,Mobile,4,0,1
+43,Male,Rural,Ad,23.56,3,Tablet,1,0,0
+49,Male,Urban,Ad,23.06,6,Mobile,1,0,1
+23,Male,Suburban,Organic,6.44,10,Desktop,3,0,1
+49,Female,Urban,Referral,3.56,11,Mobile,1,0,0
+21,Female,Suburban,Organic,21.27,15,Desktop,2,0,1
+28,Male,Urban,Organic,11.68,5,Mobile,0,1,0
+34,Male,Urban,Organic,13.54,6,Mobile,1,0,1
+55,Female,Rural,Social Media,1.9,4,Mobile,4,1,1
+41,Male,Urban,Referral,8.53,10,Mobile,5,1,1
+22,Female,Suburban,Ad,1.98,6,Tablet,5,0,1
+69,Male,Urban,Referral,26.5,7,Mobile,5,0,1
+51,Male,Suburban,Ad,8.06,9,Mobile,2,0,0
+23,Male,Urban,Organic,17.16,10,Desktop,4,1,1
+39,Male,Rural,Organic,2.13,7,Mobile,2,1,1
+28,Male,Urban,Organic,20.34,6,Tablet,1,1,1
+65,Male,Urban,Ad,10.37,1,Desktop,0,0,0
+33,Male,Urban,Ad,27.04,2,Mobile,5,0,1
+50,Female,Urban,Referral,26.76,1,Desktop,4,0,1
+26,Female,Suburban,Ad,10.43,9,Mobile,5,0,1
+23,Female,Urban,Organic,27.13,10,Mobile,2,0,1
+33,Female,Rural,Ad,29.89,10,Mobile,3,0,1
+46,Female,Urban,Ad,24.94,9,Mobile,1,1,1
+20,Male,Urban,Ad,25.5,7,Desktop,0,0,1
+37,Male,Suburban,Organic,8.22,13,Tablet,1,0,0
+53,Female,Suburban,Organic,17.72,2,Mobile,3,0,0
+36,Male,Urban,Ad,2.95,6,Mobile,0,1,1
+43,Female,Urban,Ad,3.75,11,Tablet,3,1,1
+20,Female,Urban,Referral,29.97,4,Mobile,1,0,0
+36,Male,Suburban,Ad,10.47,1,Mobile,2,0,0
+37,Male,Suburban,Organic,22.7,1,Mobile,1,0,1
+49,Male,Urban,Organic,24.39,12,Tablet,1,1,1
+24,Female,Rural,Ad,25.88,5,Mobile,1,0,1
+69,Male,Rural,Ad,29.93,12,Desktop,4,0,1
+58,Female,Suburban,Social Media,8.0,2,Desktop,3,0,1
+50,Female,Rural,Referral,2.17,4,Mobile,3,0,1
+57,Female,Urban,Organic,12.92,1,Mobile,5,1,1
+56,Male,Urban,Ad,4.77,4,Desktop,3,0,1
+35,Male,Urban,Referral,1.65,11,Mobile,5,0,1
+57,Female,Urban,Ad,11.45,6,Desktop,4,0,1
+18,Male,Suburban,Referral,23.73,10,Tablet,2,0,1
+28,Male,Rural,Social Media,17.42,4,Desktop,5,1,1
+45,Male,Urban,Ad,10.07,1,Desktop,1,0,0
+42,Female,Urban,Ad,19.98,7,Desktop,2,1,1
+67,Female,Urban,Ad,7.73,14,Desktop,4,1,1
+40,Male,Rural,Ad,1.42,2,Mobile,3,0,1
+48,Female,Urban,Ad,23.17,9,Mobile,5,0,1
+47,Male,Suburban,Ad,19.09,13,Mobile,1,0,1
+59,Male,Urban,Organic,23.11,3,Desktop,0,1,1
+52,Male,Urban,Referral,2.13,8,Mobile,0,0,0
+24,Male,Rural,Ad,25.28,13,Desktop,2,0,1
+33,Female,Rural,Social Media,18.97,8,Mobile,3,0,0
+43,Female,Urban,Ad,17.34,3,Desktop,0,1,1
+65,Female,Rural,Social Media,19.11,4,Mobile,2,0,0
+69,Male,Suburban,Ad,26.07,2,Desktop,4,0,1
+66,Male,Rural,Organic,18.02,4,Mobile,2,0,1
+19,Male,Urban,Organic,17.85,11,Mobile,2,0,1
+18,Female,Suburban,Organic,29.73,11,Mobile,2,1,1
+65,Male,Urban,Social Media,22.95,11,Desktop,1,0,1
+29,Female,Suburban,Ad,13.83,14,Mobile,2,1,1
+22,Female,Urban,Social Media,21.51,9,Mobile,5,0,1
+54,Female,Urban,Ad,12.29,2,Tablet,2,0,0
+49,Female,Urban,Ad,7.64,12,Desktop,1,0,0
+26,Female,Suburban,Ad,18.31,12,Tablet,1,0,1
+58,Female,Urban,Referral,27.92,13,Mobile,4,0,1
+52,Male,Suburban,Ad,27.95,3,Mobile,3,0,1
+36,Male,Rural,Referral,10.92,15,Desktop,0,0,0
+65,Female,Urban,Referral,16.3,11,Mobile,0,0,0
+33,Female,Suburban,Organic,7.14,11,Desktop,2,0,1
+20,Male,Urban,Organic,29.87,15,Mobile,4,1,1
+37,Female,Rural,Referral,29.45,4,Mobile,2,0,1
+41,Female,Urban,Ad,19.84,5,Mobile,0,0,1
+50,Male,Suburban,Ad,24.33,1,Mobile,1,0,1
+41,Female,Rural,Ad,21.74,7,Mobile,3,1,1
+69,Female,Rural,Ad,18.2,14,Mobile,4,1,1
+28,Female,Suburban,Ad,2.55,10,Tablet,1,0,0
+66,Male,Urban,Ad,14.19,7,Mobile,3,1,1
+25,Male,Suburban,Social Media,20.57,9,Desktop,4,0,1
+53,Male,Rural,Referral,20.65,4,Desktop,4,0,1
+55,Female,Suburban,Ad,11.82,14,Mobile,0,1,1
+57,Female,Urban,Referral,28.31,14,Mobile,1,1,1
+37,Male,Rural,Ad,5.85,6,Desktop,4,0,1
+52,Female,Suburban,Referral,15.51,11,Desktop,5,1,1
+65,Female,Suburban,Organic,21.04,2,Desktop,4,0,1
+42,Female,Urban,Referral,21.22,12,Desktop,3,1,1
+52,Female,Suburban,Referral,19.81,12,Tablet,0,0,1
+42,Female,Urban,Social Media,8.98,14,Mobile,2,0,0
+46,Male,Suburban,Organic,5.53,4,Mobile,0,0,0
+35,Female,Urban,Organic,19.44,2,Desktop,2,0,0
+63,Male,Suburban,Referral,18.38,10,Mobile,1,0,1
+35,Female,Rural,Organic,6.2,5,Desktop,1,0,1
+19,Male,Urban,Ad,21.45,15,Mobile,4,0,1
+52,Female,Rural,Ad,14.2,7,Mobile,5,0,1
+33,Male,Urban,Ad,20.37,13,Desktop,1,0,1
+58,Female,Rural,Referral,25.28,1,Mobile,4,0,1
+53,Male,Suburban,Referral,5.92,15,Mobile,0,0,0
+50,Female,Suburban,Ad,1.56,10,Mobile,1,1,1
+21,Male,Suburban,Social Media,23.59,10,Desktop,0,1,1
+50,Female,Rural,Social Media,18.68,7,Mobile,0,1,1
+31,Male,Urban,Organic,21.29,10,Desktop,5,0,1
+38,Male,Urban,Referral,25.31,13,Mobile,1,1,1
+65,Female,Suburban,Organic,24.28,6,Desktop,0,0,0
+37,Female,Rural,Ad,28.87,6,Desktop,5,0,1
+25,Male,Suburban,Organic,16.54,12,Mobile,5,0,1
+24,Female,Suburban,Ad,15.17,8,Mobile,1,1,1
+20,Male,Urban,Organic,12.65,8,Mobile,5,0,1
+34,Male,Rural,Ad,5.46,6,Desktop,1,0,0
+50,Male,Urban,Organic,17.61,3,Mobile,1,0,1
+65,Female,Suburban,Social Media,9.03,5,Desktop,2,1,1
+29,Male,Urban,Ad,27.72,2,Mobile,0,0,0
+68,Male,Urban,Referral,17.91,15,Mobile,3,0,1
+39,Female,Urban,Social Media,18.19,14,Mobile,1,0,1
+39,Female,Urban,Referral,11.29,5,Mobile,0,0,0
+63,Female,Suburban,Organic,2.51,14,Mobile,5,0,1
+47,Female,Urban,Referral,1.92,9,Desktop,4,0,1
+55,Male,Urban,Ad,13.28,10,Desktop,1,1,1
+55,Male,Urban,Ad,3.45,1,Mobile,5,0,1
+62,Male,Urban,Ad,18.6,10,Tablet,5,0,1
+68,Male,Urban,Organic,26.55,5,Desktop,5,0,1
+25,Female,Urban,Ad,26.6,12,Tablet,5,0,1
+44,Male,Suburban,Referral,20.11,6,Mobile,5,0,1
+44,Male,Suburban,Referral,7.13,14,Mobile,1,0,1
+51,Female,Suburban,Referral,26.03,11,Mobile,3,0,1
+38,Male,Urban,Organic,26.7,7,Desktop,2,1,1
+47,Male,Urban,Social Media,6.7,9,Mobile,5,0,1
+50,Male,Rural,Referral,22.39,6,Mobile,5,0,1
+45,Male,Suburban,Organic,9.31,5,Mobile,2,1,1
+64,Male,Urban,Organic,24.28,12,Mobile,1,0,1
+50,Male,Urban,Referral,29.92,7,Desktop,0,1,1
+22,Female,Urban,Social Media,1.87,13,Mobile,4,0,1
+65,Female,Urban,Ad,27.02,1,Mobile,4,0,1
+36,Male,Urban,Ad,19.06,11,Desktop,0,1,1
+21,Male,Suburban,Organic,29.23,14,Tablet,1,0,1
+52,Female,Suburban,Referral,14.49,5,Desktop,4,0,0
+66,Male,Suburban,Organic,25.57,15,Tablet,2,1,1
+34,Male,Suburban,Organic,2.81,2,Desktop,0,0,0
+61,Male,Rural,Ad,10.72,4,Mobile,3,0,1
+45,Female,Suburban,Organic,2.94,7,Mobile,1,0,0
+47,Male,Rural,Referral,29.28,5,Desktop,0,1,1
+46,Female,Urban,Referral,24.69,12,Desktop,4,1,1
+63,Male,Urban,Organic,25.72,6,Desktop,1,0,1
+23,Female,Urban,Social Media,28.2,2,Mobile,2,0,1
+52,Female,Suburban,Ad,3.47,3,Mobile,1,1,1
+58,Male,Rural,Referral,12.18,7,Mobile,1,0,1
+54,Female,Urban,Organic,3.06,11,Mobile,2,0,1
+41,Male,Rural,Organic,7.11,2,Mobile,5,1,1
+46,Female,Urban,Organic,7.65,12,Desktop,2,1,1
+66,Male,Rural,Ad,14.6,6,Mobile,1,1,1
+63,Male,Urban,Ad,8.79,5,Mobile,2,0,0
+48,Female,Urban,Ad,3.93,10,Mobile,5,0,1
+52,Male,Urban,Organic,5.86,1,Desktop,0,0,1
+50,Male,Urban,Ad,5.27,12,Mobile,2,0,1
+69,Female,Urban,Ad,29.22,11,Mobile,2,0,1
+38,Male,Urban,Social Media,23.02,15,Mobile,1,1,1
+49,Male,Rural,Ad,29.07,10,Mobile,0,0,0
+40,Female,Suburban,Social Media,13.75,11,Tablet,3,1,1
+50,Female,Urban,Organic,9.07,4,Tablet,3,0,0
+20,Male,Suburban,Organic,24.15,11,Mobile,4,0,1
+35,Male,Suburban,Ad,10.46,2,Mobile,2,0,0
+42,Female,Urban,Ad,9.68,4,Desktop,2,0,1
+59,Female,Urban,Organic,7.74,1,Mobile,0,0,0
+48,Male,Urban,Organic,4.76,2,Mobile,5,1,0
+20,Female,Urban,Organic,8.44,13,Mobile,3,1,1
+57,Male,Suburban,Ad,11.3,8,Tablet,4,0,1
+63,Male,Urban,Organic,20.55,6,Mobile,0,0,1
+41,Male,Suburban,Organic,2.81,2,Mobile,2,1,1
+67,Male,Suburban,Organic,7.1,12,Desktop,3,0,0
+49,Male,Urban,Organic,24.46,15,Mobile,4,0,1
+64,Female,Suburban,Organic,5.26,6,Mobile,1,0,1
+39,Female,Urban,Organic,10.94,10,Tablet,3,1,1
+40,Female,Rural,Ad,26.08,9,Mobile,4,0,1
+19,Female,Urban,Referral,5.49,7,Desktop,0,0,0
+44,Male,Rural,Ad,3.4,9,Mobile,1,1,1
+59,Male,Suburban,Referral,15.05,5,Mobile,4,0,1
+19,Male,Urban,Referral,9.77,7,Mobile,4,0,1
+43,Male,Suburban,Ad,17.34,11,Mobile,2,0,1
+34,Female,Rural,Ad,24.31,15,Mobile,5,1,1
+57,Male,Suburban,Ad,4.98,14,Desktop,3,0,1
+50,Male,Rural,Organic,17.84,7,Mobile,2,1,1
+26,Female,Rural,Social Media,15.66,12,Mobile,1,0,1
+60,Female,Urban,Ad,5.18,12,Mobile,5,0,1
+65,Female,Urban,Social Media,19.1,3,Desktop,4,1,1
+56,Female,Suburban,Referral,8.94,7,Mobile,2,0,0
+46,Male,Urban,Ad,15.15,1,Mobile,5,0,1
+59,Male,Rural,Ad,3.39,9,Mobile,3,0,0
+43,Female,Rural,Referral,14.33,10,Mobile,1,0,1
+52,Male,Urban,Organic,9.89,13,Mobile,0,0,1
+67,Male,Urban,Organic,24.85,6,Desktop,2,0,1
+42,Male,Suburban,Ad,2.65,5,Mobile,1,0,1
+41,Female,Urban,Ad,13.14,7,Mobile,0,1,1
+30,Male,Rural,Referral,14.29,5,Mobile,2,0,0
+24,Female,Urban,Ad,22.03,10,Desktop,1,1,1
+53,Male,Suburban,Ad,17.65,5,Mobile,1,0,1
+62,Male,Urban,Ad,20.35,11,Mobile,5,0,1
+37,Male,Suburban,Organic,23.53,10,Mobile,2,0,1
+18,Female,Urban,Social Media,26.0,11,Mobile,1,0,1
+25,Male,Suburban,Referral,10.1,7,Mobile,4,0,1
+63,Female,Urban,Social Media,16.6,10,Mobile,2,1,1
+33,Female,Suburban,Ad,25.36,15,Mobile,1,1,1
+31,Female,Rural,Referral,29.69,7,Mobile,5,1,1
+29,Male,Urban,Ad,26.8,13,Mobile,0,0,1
+68,Male,Urban,Organic,11.77,11,Mobile,0,1,1
+40,Male,Urban,Social Media,6.66,15,Mobile,4,0,1
+32,Male,Suburban,Organic,15.19,3,Desktop,2,0,1
+45,Female,Suburban,Ad,22.51,3,Tablet,5,1,1
+51,Female,Suburban,Organic,15.28,10,Tablet,1,0,1
+19,Female,Urban,Ad,15.01,12,Desktop,1,0,1
+49,Male,Urban,Organic,25.31,13,Desktop,0,0,1
+40,Female,Suburban,Referral,11.48,15,Desktop,5,0,1
+39,Male,Urban,Referral,25.93,3,Mobile,4,1,1
+68,Female,Rural,Referral,12.8,6,Desktop,0,0,1
+42,Male,Urban,Organic,10.52,12,Mobile,0,1,0
+39,Male,Suburban,Ad,14.17,15,Mobile,4,0,1
+39,Female,Urban,Organic,23.11,6,Desktop,2,0,1
+66,Female,Urban,Ad,4.65,13,Mobile,1,0,1
+69,Female,Suburban,Organic,6.7,13,Mobile,2,0,0
+59,Female,Suburban,Organic,28.59,3,Tablet,5,0,1
+23,Male,Rural,Organic,6.09,3,Mobile,3,1,0
+32,Female,Urban,Referral,17.46,8,Mobile,3,1,1
+60,Female,Urban,Referral,17.8,8,Tablet,3,1,1
+54,Female,Suburban,Ad,15.2,7,Desktop,4,1,1
+50,Male,Suburban,Organic,19.7,10,Mobile,0,1,1
+25,Male,Urban,Ad,7.66,4,Mobile,2,0,1
+61,Female,Urban,Referral,17.03,15,Mobile,1,1,1
+61,Male,Urban,Ad,11.79,4,Desktop,3,0,1
+22,Female,Rural,Ad,20.19,3,Mobile,2,0,1
+56,Male,Urban,Organic,5.1,5,Mobile,3,0,0
+21,Male,Urban,Ad,17.56,3,Mobile,3,0,1
+23,Male,Urban,Organic,6.37,13,Mobile,1,0,1
+62,Male,Urban,Ad,9.08,8,Tablet,5,1,1
+49,Female,Urban,Ad,7.34,7,Mobile,5,0,1
+69,Female,Suburban,Referral,6.3,13,Desktop,5,0,1
+47,Female,Urban,Ad,24.95,3,Mobile,4,0,1
+64,Male,Rural,Ad,9.29,9,Desktop,0,0,0
+52,Female,Urban,Organic,27.89,12,Tablet,4,0,1
+57,Female,Suburban,Ad,29.13,14,Mobile,2,0,1
+69,Female,Rural,Organic,17.57,13,Mobile,4,0,1
+33,Male,Suburban,Ad,5.15,5,Mobile,2,0,0
+30,Male,Suburban,Ad,11.86,9,Desktop,2,1,1
+67,Male,Urban,Organic,24.13,7,Mobile,0,1,1
+59,Female,Urban,Ad,11.65,15,Desktop,1,0,0
+47,Female,Suburban,Ad,3.52,7,Desktop,0,0,0
+36,Female,Rural,Ad,17.15,6,Desktop,5,0,1
+34,Male,Suburban,Ad,25.51,2,Desktop,5,1,1
+36,Male,Suburban,Organic,24.08,9,Mobile,4,0,1
+45,Female,Suburban,Ad,6.08,6,Mobile,2,0,1
+43,Male,Urban,Organic,20.51,8,Mobile,3,1,1
+54,Male,Urban,Organic,7.39,1,Tablet,3,0,0
+43,Male,Suburban,Referral,7.33,5,Desktop,2,0,1
+40,Male,Rural,Social Media,26.35,12,Desktop,0,0,1
+26,Female,Urban,Ad,8.24,1,Mobile,1,1,1
+29,Male,Suburban,Social Media,8.63,10,Mobile,0,1,0
+18,Male,Urban,Ad,1.02,11,Desktop,2,1,1
+18,Male,Suburban,Organic,26.25,14,Mobile,2,0,1
+64,Male,Urban,Referral,23.99,8,Mobile,1,0,1
+51,Female,Urban,Ad,19.19,8,Desktop,4,1,1
+49,Female,Suburban,Organic,22.76,1,Mobile,4,1,1
+65,Male,Urban,Organic,5.41,9,Mobile,1,0,0
+42,Male,Suburban,Ad,14.29,2,Mobile,4,1,1
+57,Male,Suburban,Ad,11.19,12,Mobile,3,0,0
+62,Male,Rural,Organic,3.72,9,Tablet,4,0,1
+18,Male,Urban,Organic,15.1,1,Mobile,4,0,1
+33,Male,Urban,Social Media,27.7,12,Mobile,4,0,1
+56,Female,Urban,Organic,2.16,10,Mobile,3,1,1
+22,Male,Rural,Social Media,9.45,14,Desktop,4,0,1
+39,Female,Rural,Organic,7.02,14,Mobile,5,0,1
+46,Female,Suburban,Ad,7.91,9,Mobile,3,1,1
+20,Male,Rural,Ad,27.34,4,Mobile,1,1,1
+29,Female,Suburban,Organic,14.57,9,Mobile,0,0,1
+43,Female,Suburban,Organic,14.52,7,Mobile,1,0,0
+33,Female,Urban,Ad,23.06,11,Desktop,0,0,1
+68,Female,Suburban,Ad,5.48,6,Desktop,1,0,0
+54,Female,Urban,Social Media,15.13,15,Mobile,5,1,1
+39,Female,Rural,Referral,13.47,5,Mobile,0,1,1
+46,Male,Suburban,Referral,18.31,11,Tablet,0,0,1
+31,Female,Suburban,Referral,29.99,9,Mobile,2,0,1
+45,Female,Urban,Ad,23.31,2,Desktop,0,0,1
+22,Female,Urban,Ad,12.54,14,Mobile,0,1,1
+64,Male,Urban,Ad,25.0,13,Tablet,2,0,1
+66,Female,Urban,Ad,5.95,11,Desktop,4,0,1
+47,Male,Urban,Organic,1.88,14,Tablet,4,0,1
+63,Female,Rural,Referral,6.93,12,Desktop,2,0,1
+69,Male,Suburban,Organic,10.87,2,Mobile,3,0,1
+22,Male,Urban,Organic,15.81,11,Tablet,0,0,1
+29,Female,Urban,Ad,18.84,12,Mobile,0,1,1
+33,Female,Urban,Organic,27.41,15,Mobile,2,1,1
+43,Male,Suburban,Referral,15.79,9,Desktop,2,1,1
+43,Female,Suburban,Organic,15.54,12,Desktop,3,0,1
+65,Male,Rural,Ad,2.46,3,Tablet,5,0,1
+38,Male,Urban,Organic,2.01,8,Mobile,4,0,1
+56,Male,Rural,Organic,16.98,11,Desktop,1,0,1
+53,Male,Rural,Ad,13.71,15,Desktop,5,1,1
+50,Male,Urban,Ad,25.34,9,Mobile,4,0,1
+47,Female,Rural,Organic,5.66,8,Mobile,0,0,0
+54,Male,Urban,Organic,1.72,4,Mobile,5,1,1
+40,Male,Rural,Ad,14.02,12,Mobile,2,1,1
+27,Female,Urban,Organic,7.89,1,Tablet,3,0,1
+22,Male,Rural,Ad,2.44,4,Desktop,4,0,1
+53,Female,Rural,Organic,22.01,14,Desktop,3,0,1
+51,Female,Rural,Ad,4.24,9,Tablet,4,0,1
+69,Female,Suburban,Organic,18.64,2,Mobile,5,0,1
+48,Male,Urban,Ad,9.15,3,Desktop,0,0,0
+27,Male,Urban,Ad,6.03,10,Mobile,1,1,1
+36,Male,Urban,Ad,12.01,8,Desktop,3,0,0
+49,Female,Urban,Ad,24.24,6,Mobile,3,0,1
+18,Male,Suburban,Referral,12.37,8,Tablet,1,0,0
+22,Female,Urban,Ad,22.77,7,Mobile,3,0,1
+62,Male,Rural,Organic,4.64,14,Mobile,3,1,1
+21,Female,Suburban,Ad,23.41,13,Desktop,4,0,1
+33,Male,Rural,Ad,7.87,13,Mobile,4,0,1
+41,Male,Urban,Ad,20.64,5,Desktop,1,0,1
+33,Male,Rural,Ad,17.41,9,Mobile,0,1,1
+19,Female,Rural,Ad,27.95,4,Desktop,5,0,1
+66,Female,Urban,Referral,12.23,6,Mobile,5,1,1
+45,Male,Suburban,Referral,2.92,2,Mobile,3,0,0
+49,Male,Suburban,Referral,1.56,15,Mobile,0,0,1
+44,Female,Urban,Referral,24.98,2,Mobile,1,0,0
+37,Female,Suburban,Referral,16.22,2,Mobile,1,1,1
+41,Female,Urban,Ad,23.48,10,Mobile,4,1,1
+29,Male,Urban,Referral,7.8,7,Mobile,3,0,1
+67,Female,Urban,Social Media,11.01,13,Mobile,2,0,1
+52,Male,Urban,Referral,1.87,2,Mobile,1,0,0
+50,Female,Urban,Organic,28.88,15,Desktop,3,0,1
+50,Male,Urban,Ad,20.37,15,Mobile,0,0,1
+68,Female,Rural,Organic,28.06,12,Mobile,4,1,1
+60,Female,Suburban,Organic,8.7,15,Desktop,5,1,1
+54,Female,Rural,Referral,18.73,13,Mobile,0,0,1
+29,Female,Urban,Social Media,20.68,2,Desktop,1,0,1
+20,Female,Urban,Ad,10.21,15,Mobile,1,1,1
+18,Male,Suburban,Ad,25.6,9,Mobile,0,1,1
+50,Female,Urban,Organic,28.47,7,Mobile,1,0,1
+57,Female,Urban,Organic,26.66,11,Desktop,3,0,1
+27,Female,Suburban,Ad,22.43,3,Desktop,1,0,0
+60,Male,Urban,Ad,9.05,3,Mobile,4,0,1
+61,Female,Suburban,Ad,9.17,7,Mobile,3,0,1
+46,Male,Suburban,Ad,28.94,5,Tablet,2,0,1
+30,Female,Urban,Organic,1.3,10,Mobile,1,0,1
+29,Female,Urban,Referral,21.77,14,Mobile,1,0,1
+48,Male,Suburban,Ad,21.48,14,Tablet,4,0,1
+63,Female,Urban,Ad,19.06,6,Desktop,4,0,1
+19,Male,Urban,Ad,29.71,13,Mobile,5,1,1
+68,Male,Rural,Ad,10.04,12,Desktop,0,1,1
+67,Female,Urban,Organic,10.86,8,Desktop,0,0,0
+52,Male,Suburban,Social Media,3.29,9,Mobile,0,0,1
+40,Female,Rural,Organic,13.84,1,Mobile,4,1,1
+34,Female,Urban,Ad,8.57,3,Mobile,0,0,0
+43,Male,Urban,Organic,10.96,11,Tablet,0,0,1
+25,Male,Urban,Organic,25.2,7,Desktop,2,0,1
+46,Male,Urban,Organic,28.13,6,Mobile,0,0,1
+43,Male,Urban,Referral,6.39,7,Desktop,1,0,1
+27,Female,Suburban,Ad,11.8,8,Mobile,5,1,1
+43,Female,Urban,Ad,27.93,6,Mobile,4,0,1
+51,Male,Suburban,Ad,2.79,3,Mobile,3,0,0
+68,Female,Rural,Ad,3.68,2,Mobile,5,1,1
+58,Female,Rural,Ad,5.72,12,Desktop,2,0,0
+24,Female,Suburban,Referral,18.26,7,Mobile,4,0,1
+21,Female,Urban,Organic,5.36,12,Desktop,4,0,1
+67,Male,Suburban,Referral,29.07,12,Mobile,1,0,1
+62,Male,Suburban,Ad,13.95,12,Mobile,5,0,1
+28,Female,Urban,Social Media,15.54,11,Tablet,5,0,1
+46,Male,Urban,Social Media,8.15,1,Mobile,0,0,1
+53,Male,Rural,Organic,14.66,3,Mobile,1,0,1
+42,Male,Urban,Social Media,20.2,12,Mobile,0,0,1
+38,Female,Urban,Referral,22.78,11,Desktop,0,0,0
+53,Female,Urban,Social Media,22.86,4,Mobile,4,0,1
+27,Female,Urban,Ad,17.76,13,Mobile,5,0,1
+54,Male,Rural,Ad,27.23,14,Mobile,0,0,1
+26,Female,Suburban,Ad,24.7,1,Mobile,2,1,1
+41,Female,Suburban,Ad,22.95,5,Desktop,2,0,1
+52,Male,Urban,Ad,2.61,10,Mobile,5,0,1
+66,Female,Urban,Organic,1.2,3,Mobile,2,1,0
+52,Female,Urban,Organic,7.16,2,Mobile,4,0,1
+65,Male,Urban,Referral,20.24,15,Mobile,1,0,1
+53,Male,Urban,Ad,12.92,3,Tablet,3,1,1
+35,Male,Suburban,Organic,12.67,8,Mobile,0,1,1
+66,Female,Urban,Organic,26.65,6,Tablet,3,0,1
+56,Female,Suburban,Ad,26.97,13,Mobile,1,0,1
+49,Female,Urban,Organic,27.37,14,Mobile,1,0,1
+41,Male,Urban,Ad,10.1,7,Desktop,4,1,1
+40,Male,Urban,Ad,21.04,12,Mobile,2,0,1
+49,Female,Rural,Social Media,8.88,6,Desktop,2,0,0
+54,Female,Rural,Ad,6.53,6,Tablet,1,1,0
+29,Male,Rural,Referral,6.35,12,Mobile,4,0,1
+66,Male,Urban,Organic,10.92,3,Mobile,4,1,0
+30,Male,Urban,Organic,13.47,12,Desktop,5,0,1
+40,Male,Suburban,Ad,25.1,13,Mobile,0,0,1
+42,Female,Urban,Ad,4.48,14,Mobile,2,0,1
+52,Male,Rural,Ad,22.31,8,Mobile,1,1,1
+58,Female,Urban,Organic,16.41,12,Mobile,5,0,1
+47,Female,Urban,Referral,9.35,7,Desktop,3,0,1
+34,Female,Urban,Ad,15.29,7,Mobile,2,0,0
+66,Male,Urban,Social Media,9.7,6,Mobile,0,1,1
+37,Male,Suburban,Referral,18.29,5,Desktop,4,1,1
+65,Male,Urban,Ad,13.58,10,Mobile,1,0,0
+42,Male,Urban,Referral,5.77,8,Mobile,2,0,1
+39,Female,Urban,Organic,4.38,5,Desktop,3,1,1
+30,Male,Urban,Ad,16.85,9,Mobile,0,0,1
+36,Male,Suburban,Ad,27.17,9,Desktop,0,0,1
+66,Female,Rural,Organic,10.97,1,Desktop,5,0,1
+53,Male,Rural,Referral,22.26,6,Mobile,2,1,1
+29,Female,Suburban,Referral,20.1,7,Mobile,3,0,1
+58,Female,Urban,Referral,28.02,3,Mobile,0,0,1
+36,Female,Suburban,Ad,24.81,7,Mobile,1,0,0
+29,Female,Urban,Ad,17.43,11,Desktop,0,0,0
+26,Female,Urban,Referral,20.05,11,Desktop,3,0,1
+24,Female,Rural,Ad,27.05,7,Mobile,4,0,1
+45,Female,Urban,Ad,12.59,14,Desktop,4,0,1
+31,Female,Rural,Organic,10.48,13,Tablet,5,0,1
+48,Male,Urban,Social Media,1.31,11,Tablet,2,0,1
+69,Male,Suburban,Organic,24.97,2,Mobile,3,1,1
+36,Male,Suburban,Organic,24.23,7,Mobile,5,1,1
+64,Male,Rural,Ad,4.03,15,Mobile,0,1,0
+33,Female,Suburban,Social Media,17.73,1,Tablet,0,0,1
+22,Male,Suburban,Ad,14.46,5,Mobile,4,0,1
+52,Female,Urban,Social Media,4.44,9,Mobile,5,0,1
+29,Male,Suburban,Social Media,29.44,7,Mobile,4,1,1
+42,Male,Urban,Organic,7.23,7,Mobile,1,1,1
+69,Male,Suburban,Social Media,2.95,11,Mobile,4,1,1
+38,Female,Suburban,Referral,18.25,13,Tablet,1,0,1
+53,Male,Suburban,Ad,22.43,12,Mobile,0,0,1
+40,Female,Urban,Referral,1.94,2,Mobile,5,0,1
+33,Female,Urban,Referral,20.1,8,Mobile,1,0,0
+56,Male,Suburban,Ad,16.44,3,Mobile,5,0,1
+62,Male,Urban,Organic,3.99,15,Mobile,5,1,1
+59,Male,Urban,Social Media,6.0,8,Mobile,1,0,0
+56,Female,Urban,Ad,17.47,3,Mobile,2,0,1
+31,Male,Rural,Organic,9.59,10,Mobile,4,0,1
+48,Female,Suburban,Social Media,28.21,7,Mobile,1,1,1
+22,Female,Urban,Social Media,24.74,2,Mobile,0,0,1
+52,Male,Urban,Social Media,29.52,4,Tablet,5,0,1
+40,Male,Urban,Referral,8.53,11,Tablet,3,1,1
+46,Female,Suburban,Social Media,29.12,6,Mobile,1,0,0
+60,Female,Suburban,Organic,13.51,11,Mobile,4,0,1
+28,Female,Urban,Ad,11.08,9,Tablet,5,0,1
+35,Male,Urban,Referral,2.46,5,Mobile,2,0,1
+64,Female,Urban,Organic,2.53,13,Desktop,0,1,1
+29,Male,Suburban,Ad,21.07,9,Tablet,2,1,1
+26,Female,Suburban,Organic,14.28,15,Mobile,3,0,1
+27,Female,Urban,Organic,7.57,5,Mobile,1,0,0
+61,Male,Urban,Ad,18.81,10,Tablet,5,0,1
+34,Female,Urban,Referral,8.33,8,Mobile,1,0,1
+55,Male,Rural,Organic,17.75,13,Mobile,4,0,1
+24,Male,Urban,Referral,11.42,13,Mobile,1,0,1
+63,Female,Suburban,Ad,24.88,1,Mobile,0,0,0
+30,Male,Suburban,Ad,24.8,7,Desktop,3,1,1
+57,Male,Urban,Ad,14.84,4,Desktop,2,0,0
+59,Female,Urban,Social Media,11.17,5,Tablet,3,0,1
+26,Male,Urban,Ad,11.51,6,Mobile,5,0,1
+67,Male,Suburban,Organic,24.37,5,Mobile,1,1,1
+44,Male,Suburban,Ad,10.52,12,Mobile,5,0,1
+19,Female,Suburban,Ad,7.06,1,Mobile,2,0,0
+22,Male,Suburban,Organic,3.46,12,Mobile,5,0,1
+46,Female,Urban,Organic,14.53,9,Tablet,4,1,1
+54,Female,Rural,Ad,14.98,2,Desktop,3,0,1
+55,Male,Suburban,Referral,25.39,9,Mobile,2,1,1
+36,Male,Urban,Ad,7.42,10,Desktop,2,1,1
+25,Male,Rural,Referral,12.05,2,Mobile,2,1,1
+65,Female,Suburban,Organic,24.44,9,Mobile,0,0,1
+62,Male,Suburban,Ad,24.89,6,Desktop,3,0,1
+18,Male,Suburban,Ad,12.15,11,Mobile,5,0,1
+39,Male,Rural,Ad,14.31,9,Tablet,2,1,1
+69,Male,Suburban,Social Media,9.8,13,Desktop,3,0,1
+34,Male,Urban,Social Media,28.04,6,Mobile,2,0,1
+24,Female,Urban,Ad,4.44,6,Desktop,4,0,1
+42,Female,Rural,Organic,28.08,13,Mobile,4,0,1
+62,Male,Urban,Ad,20.83,11,Mobile,4,0,1
+21,Male,Urban,Ad,16.42,14,Mobile,1,0,1
+53,Male,Urban,Organic,1.95,2,Mobile,2,0,1
+23,Male,Urban,Social Media,14.79,8,Desktop,1,1,1
+48,Female,Suburban,Social Media,12.82,3,Mobile,3,0,1
+36,Male,Rural,Referral,5.68,7,Desktop,1,0,1
+61,Female,Urban,Ad,20.04,5,Mobile,3,0,1
+56,Female,Urban,Organic,29.16,3,Mobile,3,0,1
+44,Male,Urban,Ad,17.3,1,Desktop,3,1,0
+27,Female,Rural,Referral,21.73,8,Mobile,5,0,1
+43,Female,Suburban,Ad,2.99,3,Mobile,1,0,0
+36,Female,Urban,Organic,13.11,2,Mobile,5,0,1
+56,Female,Rural,Ad,4.37,1,Mobile,2,1,1
+20,Male,Rural,Ad,18.77,4,Mobile,1,0,1
+62,Male,Rural,Social Media,28.22,13,Desktop,2,1,1
+30,Female,Rural,Ad,20.19,8,Mobile,2,0,1
+67,Male,Urban,Referral,3.23,13,Mobile,3,0,0
+45,Male,Suburban,Ad,11.29,3,Tablet,1,0,0
+37,Male,Urban,Ad,16.97,14,Mobile,2,1,1
+45,Male,Rural,Ad,12.69,1,Desktop,4,0,1
+25,Male,Suburban,Ad,25.18,4,Mobile,2,1,1
+58,Female,Suburban,Organic,24.63,9,Mobile,4,0,1
+56,Male,Suburban,Ad,18.74,13,Desktop,1,0,1
+18,Male,Urban,Social Media,11.83,1,Mobile,5,0,1
+20,Male,Suburban,Referral,8.4,12,Desktop,1,1,1
+30,Male,Rural,Referral,4.07,14,Mobile,5,0,1
+45,Female,Rural,Referral,11.29,11,Mobile,5,1,1
+66,Female,Urban,Referral,12.98,2,Mobile,1,1,1
+42,Female,Urban,Organic,20.6,9,Mobile,2,1,1
+50,Female,Urban,Ad,20.09,2,Desktop,0,0,0
+55,Male,Suburban,Ad,3.03,13,Mobile,2,0,0
+23,Female,Rural,Organic,12.46,3,Tablet,2,1,1
+61,Male,Urban,Social Media,6.27,7,Tablet,3,0,0
+62,Male,Suburban,Organic,5.55,3,Mobile,3,0,1
+49,Male,Rural,Referral,24.99,9,Mobile,2,0,1
+62,Male,Suburban,Organic,2.22,6,Desktop,4,0,1
+64,Male,Suburban,Referral,13.16,3,Tablet,5,0,1
+38,Female,Suburban,Referral,5.88,9,Mobile,3,0,1
+33,Female,Suburban,Ad,26.5,1,Mobile,2,0,1
+38,Female,Urban,Referral,17.15,10,Mobile,0,0,1
+28,Female,Suburban,Ad,7.71,3,Desktop,4,0,0
+54,Male,Suburban,Ad,15.57,1,Mobile,1,0,1
+53,Female,Rural,Organic,22.21,2,Desktop,2,0,0
+52,Male,Suburban,Ad,28.79,12,Mobile,2,0,1
+36,Female,Suburban,Ad,7.39,8,Mobile,5,0,1
+37,Male,Urban,Ad,26.7,7,Mobile,4,0,1
+35,Male,Urban,Social Media,28.09,2,Mobile,3,0,1
+64,Female,Urban,Referral,27.58,2,Mobile,3,1,1
+58,Male,Urban,Referral,19.43,9,Mobile,3,0,1
+66,Male,Suburban,Organic,19.26,13,Mobile,1,1,1
+31,Female,Rural,Organic,12.69,13,Mobile,4,0,1
+32,Male,Urban,Ad,22.82,6,Mobile,4,0,1
+48,Female,Urban,Organic,16.41,5,Tablet,3,0,1
+18,Female,Rural,Organic,20.65,10,Mobile,3,0,1
+20,Female,Urban,Organic,13.43,6,Mobile,5,0,0
+33,Male,Suburban,Ad,22.21,9,Mobile,0,0,0
+40,Male,Suburban,Organic,24.91,11,Tablet,0,0,1
+28,Male,Suburban,Referral,5.25,7,Mobile,2,0,0
+29,Female,Urban,Ad,25.15,15,Desktop,2,0,1
+27,Male,Urban,Referral,16.67,10,Desktop,4,1,1
+49,Female,Suburban,Ad,25.5,10,Desktop,4,0,1
+33,Female,Suburban,Ad,13.51,14,Mobile,1,0,0
+25,Male,Urban,Organic,11.99,9,Desktop,1,0,1
+55,Female,Suburban,Ad,27.54,4,Mobile,0,0,0
+29,Male,Urban,Referral,8.28,2,Mobile,2,1,1
+41,Male,Suburban,Referral,25.48,12,Desktop,0,0,1
+45,Male,Urban,Ad,15.04,8,Mobile,0,0,1
+25,Male,Rural,Social Media,15.91,4,Desktop,2,1,1
+45,Male,Urban,Ad,9.95,13,Mobile,1,0,0
+53,Female,Urban,Ad,17.62,9,Desktop,5,0,1
+43,Female,Urban,Ad,10.43,15,Mobile,5,1,1
+25,Female,Urban,Ad,2.14,15,Mobile,5,0,1
+67,Male,Rural,Ad,8.89,4,Mobile,2,0,1
+45,Male,Rural,Organic,1.18,15,Tablet,3,0,1
+45,Male,Urban,Social Media,29.37,8,Mobile,3,0,1
+54,Female,Urban,Ad,29.01,9,Mobile,3,0,1
+58,Male,Suburban,Organic,12.46,13,Mobile,4,1,1
+53,Female,Rural,Organic,22.12,9,Desktop,1,0,1
+44,Female,Suburban,Organic,11.03,10,Mobile,1,1,1
+34,Male,Urban,Referral,20.46,4,Mobile,4,1,1
+26,Male,Urban,Ad,24.36,1,Mobile,0,0,0
+50,Female,Suburban,Ad,28.46,15,Mobile,5,0,1
+37,Male,Urban,Organic,12.61,3,Mobile,3,0,1
+30,Female,Suburban,Organic,23.72,9,Mobile,5,1,1
+45,Male,Urban,Ad,8.71,4,Desktop,3,1,1
+65,Male,Suburban,Ad,29.72,5,Mobile,5,0,1
+46,Female,Urban,Social Media,1.75,7,Mobile,0,0,0
+30,Male,Suburban,Organic,18.5,5,Mobile,5,0,1
+63,Female,Urban,Social Media,20.13,4,Tablet,5,1,1
+52,Male,Suburban,Organic,20.95,15,Tablet,2,0,1
+23,Female,Urban,Ad,4.49,2,Desktop,5,0,1
+35,Female,Suburban,Referral,28.22,15,Mobile,2,1,1
+68,Male,Suburban,Organic,6.25,2,Mobile,1,0,0
+22,Female,Suburban,Ad,19.06,13,Mobile,4,0,1
+64,Male,Suburban,Referral,7.46,13,Mobile,5,0,1
+42,Male,Suburban,Organic,9.91,4,Mobile,1,0,1
+19,Male,Rural,Ad,16.85,10,Desktop,2,0,0
+27,Female,Urban,Organic,13.1,13,Desktop,5,1,1
+47,Female,Rural,Referral,5.65,10,Desktop,5,0,1
+67,Male,Urban,Social Media,5.96,13,Mobile,0,0,0
+62,Male,Urban,Ad,13.13,15,Desktop,1,0,0
+22,Female,Urban,Ad,22.96,9,Mobile,3,0,1
+50,Male,Urban,Organic,27.04,8,Mobile,3,0,1
+18,Male,Suburban,Ad,3.44,3,Desktop,0,1,0
+35,Female,Suburban,Organic,12.4,15,Mobile,2,1,1
+49,Male,Suburban,Organic,3.91,14,Mobile,3,0,0
+64,Female,Suburban,Ad,1.48,9,Mobile,3,0,1
+66,Male,Urban,Referral,20.19,14,Desktop,4,0,1
+28,Female,Urban,Referral,18.47,5,Desktop,1,1,1
+38,Male,Urban,Ad,5.73,11,Mobile,2,0,0
+43,Male,Urban,Social Media,7.78,3,Desktop,5,1,1
+42,Female,Urban,Organic,1.69,5,Mobile,1,0,0
+39,Male,Urban,Organic,25.21,13,Mobile,2,1,1
+44,Female,Suburban,Organic,29.27,10,Desktop,3,1,1
+66,Male,Suburban,Referral,4.93,13,Desktop,4,1,1
+30,Female,Rural,Social Media,7.71,4,Tablet,1,0,1
+50,Female,Rural,Organic,26.18,8,Mobile,3,0,1
+51,Female,Suburban,Organic,27.87,13,Desktop,2,0,1
+58,Female,Urban,Organic,13.17,12,Desktop,1,1,1
+52,Male,Suburban,Ad,2.47,5,Tablet,5,0,0
+18,Male,Suburban,Organic,2.14,10,Mobile,1,1,1
+38,Female,Urban,Ad,17.64,12,Desktop,3,1,1
+65,Female,Urban,Ad,12.39,8,Mobile,1,0,0
+23,Female,Rural,Ad,1.83,9,Mobile,5,1,1
+45,Male,Urban,Social Media,17.91,4,Mobile,4,0,1
+34,Male,Suburban,Organic,1.33,7,Mobile,4,0,1
+22,Male,Suburban,Organic,23.83,2,Mobile,3,0,1
+48,Male,Urban,Organic,9.89,6,Desktop,2,0,0
+22,Female,Urban,Referral,2.17,8,Mobile,3,1,0
+55,Female,Urban,Social Media,18.06,12,Desktop,4,0,1
+20,Female,Urban,Referral,12.53,7,Mobile,0,0,0
+40,Male,Urban,Ad,29.24,7,Mobile,0,0,1
+54,Male,Rural,Ad,16.78,8,Mobile,1,1,1
+54,Male,Urban,Organic,8.98,7,Mobile,5,0,1
+27,Female,Suburban,Organic,21.57,5,Mobile,1,1,1
+27,Female,Urban,Ad,8.87,7,Mobile,0,0,1
+36,Male,Rural,Ad,27.22,13,Mobile,4,0,1
+34,Female,Urban,Organic,11.87,14,Mobile,1,0,1
+38,Male,Urban,Ad,16.95,10,Mobile,3,0,1
+31,Male,Rural,Organic,2.47,3,Mobile,5,1,1
+26,Female,Rural,Social Media,13.36,5,Mobile,3,0,1
+63,Male,Urban,Referral,25.14,7,Tablet,5,1,1
+18,Female,Rural,Ad,24.36,15,Desktop,4,0,1
+68,Male,Urban,Organic,7.51,9,Desktop,1,0,1
+62,Female,Urban,Organic,7.56,15,Mobile,5,1,1
+30,Female,Urban,Referral,24.7,2,Desktop,3,1,1
+21,Female,Urban,Social Media,27.98,4,Desktop,1,0,1
+18,Male,Suburban,Ad,3.77,12,Desktop,1,0,1
+66,Male,Urban,Referral,14.05,7,Mobile,3,0,1
+57,Female,Urban,Organic,10.79,1,Desktop,0,0,0
+49,Female,Suburban,Organic,26.25,13,Desktop,5,1,1
+51,Male,Suburban,Ad,3.42,2,Mobile,3,1,0
+45,Male,Urban,Organic,7.12,9,Desktop,4,0,1
+48,Male,Suburban,Referral,22.82,13,Mobile,2,1,1
+25,Female,Urban,Ad,2.49,10,Mobile,3,0,1
+56,Male,Suburban,Ad,15.28,7,Mobile,1,0,0
+43,Male,Suburban,Organic,13.82,12,Desktop,1,0,1
+51,Female,Rural,Ad,10.7,10,Mobile,3,0,1
+20,Male,Urban,Ad,12.44,7,Mobile,2,0,0
+67,Male,Urban,Ad,16.37,6,Mobile,3,0,1
+29,Male,Urban,Organic,5.68,3,Mobile,2,0,0
+18,Female,Urban,Organic,17.59,10,Mobile,2,0,1
+61,Female,Urban,Organic,24.36,3,Desktop,4,1,1
+22,Female,Rural,Ad,23.04,2,Desktop,5,0,1
+47,Female,Urban,Organic,5.46,11,Mobile,1,0,0
+47,Female,Urban,Referral,5.33,6,Mobile,1,1,1
+34,Female,Suburban,Organic,8.78,4,Mobile,2,1,1
+65,Female,Urban,Social Media,11.47,5,Desktop,1,1,1
+64,Male,Suburban,Ad,12.85,3,Mobile,0,0,0
+40,Male,Urban,Organic,20.71,6,Mobile,2,0,1
+32,Female,Urban,Ad,2.64,11,Mobile,1,0,1
+54,Male,Urban,Referral,2.01,12,Desktop,0,0,0
+38,Male,Urban,Ad,12.37,3,Desktop,4,1,1
+31,Female,Rural,Ad,21.22,14,Desktop,1,0,1
+19,Male,Urban,Ad,6.61,15,Desktop,0,0,1
+28,Male,Suburban,Organic,19.6,14,Mobile,3,0,1
+68,Male,Urban,Ad,8.54,8,Mobile,5,0,1
+56,Male,Urban,Organic,26.7,9,Mobile,3,1,1
+55,Male,Rural,Referral,26.98,4,Mobile,0,0,1
+51,Female,Urban,Ad,9.62,15,Mobile,2,0,1
+55,Female,Suburban,Organic,7.67,9,Mobile,2,0,1
+67,Female,Rural,Ad,12.93,12,Mobile,1,0,1
+51,Male,Suburban,Referral,7.98,7,Tablet,3,0,1
+35,Female,Rural,Organic,20.5,3,Desktop,2,0,1
+47,Male,Urban,Ad,24.96,7,Desktop,2,0,1
+32,Male,Urban,Ad,20.52,14,Desktop,3,1,1
+44,Male,Urban,Ad,24.91,1,Mobile,4,1,1
+68,Male,Suburban,Social Media,12.51,3,Desktop,2,1,1
+51,Female,Rural,Organic,5.53,6,Mobile,5,1,1
+69,Female,Urban,Organic,22.4,4,Desktop,0,0,1
+55,Male,Suburban,Organic,11.45,7,Mobile,1,0,1
+50,Female,Urban,Ad,20.47,14,Tablet,2,0,1
+41,Male,Suburban,Referral,8.85,3,Mobile,5,1,1
+32,Female,Urban,Organic,3.36,1,Mobile,5,1,1
+47,Female,Rural,Ad,29.78,9,Tablet,2,1,1
+59,Male,Suburban,Ad,5.53,15,Mobile,4,0,1
+68,Female,Urban,Ad,29.66,6,Desktop,0,1,1
+34,Male,Urban,Referral,29.34,8,Desktop,1,0,1
+22,Female,Urban,Social Media,24.02,3,Desktop,2,0,1
+46,Male,Urban,Ad,20.12,8,Tablet,1,0,1
+21,Male,Urban,Referral,17.76,2,Tablet,3,0,0
+27,Female,Rural,Ad,26.12,12,Mobile,5,0,1
+34,Female,Suburban,Social Media,9.39,4,Desktop,5,0,1
+27,Male,Suburban,Ad,14.56,3,Desktop,2,0,1
+34,Female,Urban,Referral,18.96,10,Desktop,2,0,1
+37,Female,Rural,Organic,12.92,1,Mobile,3,1,0
+41,Male,Suburban,Organic,13.4,15,Desktop,4,0,1
+22,Male,Urban,Referral,10.58,13,Tablet,2,0,1
+51,Female,Suburban,Ad,17.36,13,Tablet,5,1,1
+23,Male,Suburban,Ad,25.67,7,Mobile,1,1,1
+19,Male,Urban,Ad,6.84,11,Mobile,0,0,0
+30,Male,Urban,Ad,28.1,10,Mobile,1,0,1
+60,Female,Urban,Referral,20.98,2,Desktop,4,0,1
+60,Female,Urban,Ad,24.87,4,Desktop,0,0,0
+65,Male,Rural,Ad,17.13,9,Mobile,1,0,1
+28,Female,Rural,Organic,23.61,6,Mobile,1,1,1
+68,Male,Suburban,Social Media,1.47,8,Mobile,3,0,0
+64,Female,Urban,Organic,24.73,2,Mobile,4,1,1
+40,Male,Urban,Ad,2.16,7,Tablet,5,1,1
+33,Male,Suburban,Ad,26.81,6,Desktop,3,1,1
+48,Female,Suburban,Social Media,29.77,13,Mobile,0,0,1
+28,Male,Urban,Ad,9.53,14,Mobile,5,1,1
+33,Female,Suburban,Ad,7.1,9,Mobile,3,0,1
+25,Female,Rural,Referral,23.2,7,Tablet,4,0,1
+21,Male,Urban,Organic,8.34,1,Mobile,2,0,0
+57,Male,Urban,Organic,26.1,14,Mobile,2,0,1
+21,Female,Suburban,Ad,3.98,8,Mobile,0,1,0
+42,Male,Urban,Ad,4.65,11,Desktop,2,0,0
+20,Male,Urban,Social Media,29.4,10,Desktop,3,0,1
+49,Male,Urban,Ad,20.54,15,Desktop,0,0,1
+20,Male,Urban,Organic,25.56,3,Mobile,5,0,1
+44,Male,Suburban,Organic,10.41,14,Mobile,4,0,1
+46,Female,Suburban,Organic,20.62,2,Mobile,0,1,0
+49,Female,Urban,Ad,18.23,12,Desktop,5,0,1
+67,Male,Rural,Ad,18.49,3,Mobile,0,0,1
+68,Male,Rural,Referral,20.79,11,Mobile,1,0,1
+36,Male,Rural,Organic,17.69,6,Desktop,1,0,1
+38,Female,Urban,Social Media,13.44,13,Desktop,0,0,0
+22,Male,Urban,Ad,9.0,14,Mobile,2,0,1
+35,Female,Rural,Ad,23.29,3,Mobile,1,1,1
+45,Female,Suburban,Social Media,7.56,10,Mobile,4,0,1
+59,Female,Urban,Organic,21.08,5,Desktop,5,0,1
+39,Male,Urban,Organic,7.77,6,Desktop,3,0,1
+38,Female,Urban,Ad,19.13,8,Mobile,1,1,1
+23,Male,Rural,Referral,22.67,7,Mobile,0,0,1
+18,Female,Suburban,Organic,7.34,14,Desktop,2,0,1
+22,Male,Urban,Organic,2.74,11,Desktop,3,1,1
+58,Female,Urban,Referral,4.8,8,Mobile,5,0,1
+29,Male,Suburban,Ad,18.57,3,Mobile,5,0,1
+43,Female,Rural,Referral,25.63,4,Mobile,1,0,0
+63,Male,Urban,Ad,2.3,6,Mobile,5,0,0
+51,Male,Suburban,Referral,22.29,11,Tablet,5,0,1
+66,Male,Rural,Social Media,10.9,7,Desktop,2,0,1
+31,Male,Urban,Ad,14.88,9,Desktop,2,0,0
+43,Female,Suburban,Organic,27.94,13,Mobile,2,0,1
+62,Female,Urban,Ad,10.63,1,Desktop,0,0,0
+44,Male,Suburban,Organic,14.49,13,Mobile,5,1,1
+26,Female,Suburban,Social Media,1.4,15,Mobile,5,1,1
+43,Male,Suburban,Ad,3.37,8,Mobile,5,1,1
+64,Male,Suburban,Ad,8.5,8,Mobile,4,0,1
+39,Female,Urban,Referral,1.81,6,Desktop,2,0,0
+64,Male,Rural,Ad,19.31,4,Mobile,3,0,1
+47,Male,Suburban,Organic,13.37,3,Mobile,1,0,1
+60,Female,Urban,Social Media,16.9,11,Mobile,3,1,1
+65,Male,Suburban,Referral,6.06,3,Mobile,0,0,0
+34,Male,Suburban,Ad,9.58,6,Mobile,0,0,1
+43,Male,Urban,Referral,20.25,13,Mobile,5,0,1
+53,Male,Rural,Organic,28.99,8,Desktop,3,0,1
+18,Female,Rural,Ad,2.46,7,Mobile,5,0,0
+25,Female,Urban,Referral,26.82,11,Mobile,4,0,1
+66,Female,Rural,Organic,17.73,1,Mobile,0,0,1
+52,Male,Urban,Organic,17.35,11,Desktop,0,1,1
+69,Male,Urban,Ad,15.51,6,Mobile,3,0,1
+32,Female,Urban,Organic,3.01,7,Mobile,0,1,0
+64,Male,Rural,Ad,3.61,12,Mobile,4,1,1
+39,Male,Suburban,Ad,18.43,7,Mobile,4,0,1
+31,Male,Urban,Organic,10.89,9,Mobile,4,1,1
+43,Male,Urban,Organic,27.6,11,Desktop,1,0,1
+45,Female,Suburban,Ad,12.79,11,Desktop,4,1,1
+40,Female,Urban,Ad,5.16,10,Mobile,4,0,1
+31,Female,Rural,Ad,21.73,5,Desktop,1,0,1
+41,Male,Rural,Ad,9.51,1,Desktop,5,0,1
+19,Female,Suburban,Ad,16.24,2,Mobile,2,0,1
+62,Female,Rural,Ad,21.24,15,Mobile,0,1,1
+43,Male,Urban,Referral,27.11,4,Mobile,4,0,1
+31,Male,Rural,Organic,23.97,5,Mobile,0,0,0
+68,Female,Suburban,Organic,20.61,9,Desktop,3,0,1
+24,Female,Suburban,Organic,20.71,11,Desktop,0,1,1
+20,Female,Urban,Ad,28.43,15,Tablet,5,0,1
+64,Female,Rural,Social Media,9.58,1,Desktop,1,0,1
+40,Male,Urban,Organic,1.03,3,Mobile,0,0,0
+63,Female,Urban,Organic,8.89,5,Mobile,0,1,1
+60,Female,Urban,Organic,7.32,3,Desktop,0,0,0
+64,Male,Suburban,Social Media,20.19,4,Mobile,2,0,0
+62,Female,Suburban,Referral,19.38,15,Desktop,2,0,1
+35,Male,Suburban,Ad,18.21,14,Desktop,3,1,1
+55,Male,Rural,Organic,1.47,3,Desktop,1,0,1
